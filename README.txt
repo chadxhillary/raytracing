@@ -2,6 +2,8 @@ Chad Hillary
 COMP 4490 Extended Raytracer Project
 Winter 2020
 
+https://www.chadhillary.com/Projects/raytracer.html
+
 ## TO RUN
 
 * Open the terminal / Command prompt and navigate to this folder
@@ -16,8 +18,6 @@ From the /build directory:
 `q1 1 -b -aa shader`
 `q1 2 -b`
 etc.
-
-
 
 ## Image Loading:
 * stb_image, a public domain image loading library by Sean Barrett. (https://github.com/nothings/stb)
